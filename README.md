@@ -1,16 +1,34 @@
-## Hi there 👋
+# Hi, I'm Rakib Hasan Piyas 👋
 
-<!--
-**rhpiyas/rhpiyas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Software Engineering student passionate about programming and web development.
 
-Here are some ideas to get you started:
+## About Me
+- 🎓 Software Engineering student at Daffodil International University
+- 💻 Learning C, C++, Python, Java, HTML, CSS, JavaScript, MySQL
+- 🚀 Interested in Software Development and Competitive Programming.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Skills
+
+- C
+- C++
+- Python
+- Java
+- HTML
+- CSS
+- JavaScript
+- SQL
+- Git & GitHub
+
+## Projects
+
+- DIU Info Corner
+- Smart Parking System
+- Web Development Projects
+- Data Structure Practice
+- Competitive Programming solving
+- Programming Contest Solutions
+
+## Connect With Me
+
+- GitHub: https://github.com/rhpiyas
+- Instagram : https://www.instagram.com/rhpiyas/
