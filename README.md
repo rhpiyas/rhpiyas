@@ -3,7 +3,8 @@
 Software Engineering student passionate about programming and web development.
 
 ## About Me
-- 🎓 Software Engineering student at Daffodil International University
+- 👨‍🎓 Department of Software Engineering
+- 🎓 Daffodil International University
 - 💻 Learning C, C++, Python, Java, HTML, CSS, JavaScript, MySQL
 - 🚀 Interested in Software Development and Competitive Programming.
 
