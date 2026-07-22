@@ -29,6 +29,7 @@ Software Engineering student passionate about programming and web development.
 - Data Structure Practice
 - Competitive Programming solving
 - Programming Contest Solutions
+- Weather App
 
 ## Connect With Me
 
