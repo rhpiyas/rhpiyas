@@ -23,15 +23,26 @@ Software Engineering Student • Competitive Programmer • Full Stack Learner
 
 ## 🌐 Connect with Me
 
-<p align="left">
+<p align="center">
+  
 <a href="https://github.com/rhpiyas">
 <img src="https://skillicons.dev/icons?i=github" />
-</a>
+</a> &nbsp
+
 <a href="https://linkedin.com/in/rhpiyas">
 <img src="https://skillicons.dev/icons?i=linkedin" />
-</a>
+</a> &nbsp
+
 <a href="mailto:rakibhasanpiyas97@gmail.com">
 <img src="https://skillicons.dev/icons?i=gmail" />
+</a> &nbsp
+
+<a href="https://instagram.com/rhpiyas">
+<img src="https://skillicons.dev/icons?i=instagram" />
+</a> &nbsp
+
+<a href="https://codeforces.com/profile/rh_piyas" target="_blank">
+  <img src="https://cdn.simpleicons.org/codeforces" width="48" height="48" alt="Codeforces"/>
 </a>
 </p>
 
