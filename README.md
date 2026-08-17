@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Rakib Hasan Piyas</h1>
 
 <h3 align="center">
-Software Engineering Student • Competitive Programmer • Full Stack Learner 
+Software Engineering Student • Competitive Programmer • Full Stack Learner • AI  
 </h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&center=true&vCenter=true&width=700&lines=Software+Engineering+Student;Competitive+Programmer;Frontend+Developer;Learning+Backend;Always+Learning+New+Things" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&center=true&vCenter=true&width=700&lines=Software+Engineering+Student;Competitive+Programmer;Frontend+Developer;Learning+Backend;AI;Always+Learning+New+Things" />
 </p>
 
 ---
