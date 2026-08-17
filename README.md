@@ -52,7 +52,7 @@ Software Engineering Student • Competitive Programmer • Full Stack Learner �
 
 <p align="center">
 
-<img src="https://skillicons.dev/icons?i=c,cpp,python,java,html,css,js,mysql,git,github,vscode,linux" />
+<img src="https://skillicons.dev/icons?i=c,cpp,python,java,html,css,js,nodejs,electron,mysql,git,github,vscode,linux" />
 
 </p>
 
