@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Rakib Hasan Piyas</h1>
 
 <h3 align="center">
-Software Engineering Student • Competitive Programmer • Full Stack Learner • AI  
+Software Engineering Student • Competitive Programmer • Full Stack Learner • AI Engineering  
 </h3>
 
 <p align="center">
