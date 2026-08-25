@@ -128,6 +128,9 @@ Parking Management System built for academic project.
 ### 🔹 Competitive Programming Repository
 Solutions of Codeforces, Beecrowd and more.
 
+### 🔹 Download Manager  
+A desktop-based Download Manager built with Electron.js
+
 ---
 
 ## 📚 Competitive Programming
