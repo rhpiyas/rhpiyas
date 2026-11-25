@@ -1,7 +1,7 @@
 <div align="center">
 
   <!-- Main Heading & Title -->
-  <h1>Hi there, I'm Rakib Hasan Piyas 👋</h1>
+  <h1>I am Rakib Hasan Piyas</h1>
   <p><strong>Software Engineering Undergraduate • Competitive Programmer • Full-Stack & AI Enthusiast</strong></p>
 
   <!-- Dynamic Typing Animation -->
