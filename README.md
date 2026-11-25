@@ -93,6 +93,8 @@
 
 ---
 
+
+
 ### 🐍 Contribution Snake
 
 <div align="center">
@@ -105,13 +107,6 @@
 
 ---
 
-### 🏆 GitHub Trophies
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=rhpiyas&theme=tokyonight&row=1&column=7&margin_w=15" width="100%" alt="GitHub Trophies" />
-</div>
-
----
 
 ### 🧩 Competitive Programming Profiles
 
