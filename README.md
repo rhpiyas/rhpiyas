@@ -17,7 +17,7 @@
     <a href="https://linkedin.com/in/rhpiyas" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-rhpiyas-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
     <a href="https://github.com/rhpiyas" target="_blank"><img src="https://img.shields.io/badge/GitHub-rhpiyas-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
     <a href="https://codeforces.com/profile/rh_piyas" target="_blank"><img src="https://img.shields.io/badge/Codeforces-rh__piyas-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white" alt="Codeforces" /></a>
-    <a href="mailto:rakibhasanpiyas97@gmail.com"><img src="https://img.shields.io/badge/Email-rakibhasanpiyas97%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+    <a href="mailto:rakibhasanpiyas97@gmail.com"><img src="https://img.shields.io/badge/Gmail-Contact%20Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
     <a href="https://instagram.com/rhpiyas" target="_blank"><img src="https://img.shields.io/badge/Instagram-rhpiyas-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" /></a>
   </p>
 
@@ -38,7 +38,7 @@
 - 🌱 **Continuous Learning:** Deepening expertise in JavaScript, Python, Backend Architecture & AI Engineering.
 - 🎯 **Career Mission:** Building scalable, user-centric software solutions and contributing to impactful open-source projects.
 - 🌐 **Personal Website:** Explore my projects, portfolio, and research at [rhpiyas.work](https://rhpiyas.work).
-- 📬 **Get In Touch:** Feel free to connect via [LinkedIn](https://linkedin.com/in/rhpiyas) or drop a line at [rakibhasanpiyas97@gmail.com](mailto:rakibhasanpiyas97@gmail.com).
+- 📬 **Get In Touch:** Feel free to connect via [LinkedIn](https://linkedin.com/in/rhpiyas) or drop a line via [Email](mailto:rakibhasanpiyas97@gmail.com).
 
 ---
 
@@ -142,7 +142,7 @@
   </a>
   &nbsp;
   <a href="mailto:rakibhasanpiyas97@gmail.com">
-    <img src="https://img.shields.io/badge/Email-rakibhasanpiyas97%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+    <img src="https://img.shields.io/badge/Gmail-Contact%20Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
   &nbsp;
   <a href="https://github.com/rhpiyas" target="_blank">
